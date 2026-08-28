@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Daryl Ho! 📊
 
-<!--
-**darylho0609/darylho0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Actuarial Science Student @ Asia Pacific University (APU)
 
-Here are some ideas to get you started:
+*Year 2 Undergraduate | IFoA Exemption Track | Statistical Computing Journey*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a **B.Sc. (Hons) in Actuarial Studies** at APU. 
+
+This GitHub is my **academic archive**, where I document my coursework, statistical experiments, and progress in applying mathematics and statistics through **R, Python, SQL, and Excel/VBA**.
+
+### 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=visualbasic&logoColor=white" />
+</p>
+
+### 📚 Current Focus
+
+* Applied Regression Analysis & Statistical Modeling
+* Probability & Statistics
+* Actuarial Mathematics
+* Statistical Computing & Data Analysis
+* SQL & VBA — currently learning
+
+> *“Actuarial science is the art of turning data into financial foresight.”*
