@@ -4,7 +4,7 @@
 
 *Year 2 Undergraduate | IFoA Exemption Track | Statistical Computing Journey*
 
-I'm currently pursuing a **B.Sc. (Hons) in Actuarial Studies** at APU. 
+I'm currently pursuing a **B.Sc. (Hons) in Actuarial Studies (Specialism in Data Analytics)** at APU. 
 
 This GitHub is my **academic archive**, where I document my coursework, statistical experiments, and progress in applying mathematics and statistics through **R, Python, SQL, Excel/VBA, and LaTeX**.
 
