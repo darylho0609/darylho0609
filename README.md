@@ -6,7 +6,7 @@
 
 I'm currently pursuing a **B.Sc. (Hons) in Actuarial Studies** at APU. 
 
-This GitHub is my **academic archive**, where I document my coursework, statistical experiments, and progress in applying mathematics and statistics through **R, Python, SQL, and Excel/VBA**.
+This GitHub is my **academic archive**, where I document my coursework, statistical experiments, and progress in applying mathematics and statistics through **R, Python, SQL, Excel/VBA, and LaTeX**.
 
 ### 🛠️ Tools & Technologies
 
