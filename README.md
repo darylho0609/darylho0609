@@ -25,6 +25,6 @@ This GitHub is my **academic archive**, where I document my coursework, statisti
 * Probability & Statistics
 * Actuarial Mathematics
 * Statistical Computing & Data Analysis
-* SQL & VBA — currently learning
+* SQL & VBA — Actively scheduling practical exercises for actuarial automation
 
 > *“Actuarial science is the art of turning data into financial foresight.”*
